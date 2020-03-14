@@ -1,0 +1,47 @@
+nav {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    padding: 0 50px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 60px;
+    margin-top: 20px;
+}
+
+.butao{
+    margin-top: 20px;
+    height: 45px;
+    width: 330px;
+    display: flex;
+    justify-content: space-around   
+}
+
+button {
+    color: darkgrey;
+    font-weight: bold;
+    font-size: 15px;
+    height: 40px;
+    width: 150px;
+    border-color: darkgrey;
+    border-radius: 5px;
+    background-color: transparent;
+    align-items: center;
+    display: flex;
+    padding: 0;
+}
+
+.usuario{
+    float: right;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;;
+    margin-top: 15px;
+    margin-right: 100px;
+}
+

@@ -1,0 +1,31 @@
+.borda{
+    height: 20%;
+    width: 100%;
+}
+
+.borda > * {
+    background-color: yellow;
+    border-top:5px solid darkblue;
+    border-bottom:5px solid darkblue;
+    margin-bottom: 10px;
+}
+
+.pk {
+    display: flex;
+}
+
+h1{
+    display: flex;
+    color: darkblue;
+    font-weight: bold;
+    margin-left: 305px;
+}
+
+span{
+    display: flex;
+    color: black;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 32px;
+}
+
